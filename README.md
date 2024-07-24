@@ -1,0 +1,2 @@
+# EFCOREAPP
+Asp.Net Core Mvc ile veri tabanına sahip (entity framework) web projesi tasarladık. Veri tabanı olarak SQLite kullandık migrations ,kayıt güncelleme, kayıt ekleme, kayıt listeleme, kayıt silme gibi işemler içeren verilerin ilikilendirilmesiyle tasarlanan öğrenci-kurs-öğretmen içerikli web projesi.
